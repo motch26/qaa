@@ -1,0 +1,40 @@
+{
+  "data": {
+    "BSIT": [
+      {
+        "AREA1": [
+          {
+            "PARAMETERA": {
+              "SYSTEM": [{ "S1": "DESC" }, { "S2": "DESC" }, { "S3": "DESC" }],
+              "IMPLEMENTATION": [
+                { "I1": "DESC" },
+                { "I2": "DESC" },
+                { "I3": "DESC" }
+              ],
+              "OUTCOMES": [{ "O1": "DESC" }, { "O2": "DESC" }, { "O3": "DESC" }]
+            },
+            "PARAMETERB": {
+              "SYSTEM": []
+            }
+          }
+        ]
+      },
+      {
+        "AREA2": {
+          "PARAMETERA": {
+            "SYSTEM": [{ "S1": "DESC" }, { "S2": "DESC" }, { "S3": "DESC" }],
+            "IMPLEMENTATION": [
+              { "I1": "DESC" },
+              { "I2": "DESC" },
+              { "I3": "DESC" }
+            ],
+            "OUTCOMES": [{ "O1": "DESC" }, { "O2": "DESC" }, { "O3": "DESC" }]
+          },
+          "PARAMETERB": {
+            "SYSTEM": []
+          }
+        }
+      }
+    ]
+  }
+}
